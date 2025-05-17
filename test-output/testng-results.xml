@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-16T13:32:57 EDT" name="Default suite" finished-at="2025-05-16T13:33:05 EDT" duration-ms="7810">
+    <groups>
+    </groups>
+    <test started-at="2025-05-16T13:32:57 EDT" name="Default test" finished-at="2025-05-16T13:33:05 EDT" duration-ms="7810">
+      <class name="saucedemotests.ProductTest">
+        <test-method is-config="true" signature="callWebsite()[pri:0, instance:saucedemotests.ProductTest@49ec71f8]" started-at="2025-05-16T13:32:57 EDT" name="callWebsite" finished-at="2025-05-16T13:33:01 EDT" duration-ms="4512" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- callWebsite -->
+        <test-method is-config="true" signature="loginBeforePayment()[pri:0, instance:saucedemotests.ProductTest@49ec71f8]" started-at="2025-05-16T13:33:01 EDT" name="loginBeforePayment" finished-at="2025-05-16T13:33:02 EDT" duration-ms="382" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginBeforePayment -->
+        <test-method signature="addProducts()[pri:0, instance:saucedemotests.ProductTest@49ec71f8]" started-at="2025-05-16T13:33:02 EDT" name="addProducts" finished-at="2025-05-16T13:33:05 EDT" duration-ms="2750" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addProducts -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:saucedemotests.ProductTest@49ec71f8]" started-at="2025-05-16T13:33:05 EDT" name="quitBrowser" finished-at="2025-05-16T13:33:05 EDT" duration-ms="123" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- saucedemotests.ProductTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
