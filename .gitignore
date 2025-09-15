@@ -3,6 +3,8 @@ test-output/
 .project
 target/
 .settings/
+*.html
+
 
 
 
