@@ -1,9 +1,37 @@
-test-output/
+# Maven target folder
+/target/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
 .classpath
 .project
-target/
 .settings/
-*.html
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+*.logs
+
+# TestNG output folder
+test-output/
+
+# WebDriver binaries
+chromedriver
+chromedriver.exe
+geckodriver
+geckodriver.exe
+
+# Credentials or secrets
+*.env
+*.properties
+credentials.txt
+
 
 
 
